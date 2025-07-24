@@ -1,8 +1,10 @@
 # Python-Projects
 
+These are just some simple projects I had done in python during high school.
+
 # Rock Paper Scissors Game
 First python project done in Grade 10. Didn't have much knowledge of functions or a class system,
-Just used the tkinter module for front endand a bunch of if statements
+Just used the builtin tkinter library for frontend.
 
 # Quiz Maker
 First project done using files and functions. No frontend just the python console. Has support for
